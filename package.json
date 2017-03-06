@@ -1,0 +1,14 @@
+{
+  "name": "threejs.r1o.ryoma.com",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"no test\""
+  },
+  "keywords": [],
+  "author": "Allajah",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.84.0"
+  }
+}
